@@ -4,3 +4,6 @@
 [submodule "super-simple-node-gemini-agent"]
 	path = super-simple-node-gemini-agent
 	url = git@github.com:bradyaanderson/super-simple-node-gemini-agent.git
+[submodule "super_simple_elixir_gemini_agent"]
+	path = super_simple_elixir_gemini_agent
+	url = git@github.com:bradyaanderson/super_simple_elixir_gemini_agent
