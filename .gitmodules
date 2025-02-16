@@ -1,0 +1,3 @@
+[submodule "super-simple-python-gemini-agent"]
+	path = super-simple-python-gemini-agent
+	url = git@github.com:bradyaanderson/super-simple-python-gemini-agent.git
